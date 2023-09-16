@@ -3,9 +3,9 @@ A console application developped in C that allows you to enter student names, pr
 
 
 ### Made by
-Hassan  Mohamed
-Youssef Walid
-Youssef Tamer
+- Hassan  Mohamed
+- Youssef Walid
+- Youssef Tamer
 
 
 ### As a project for
